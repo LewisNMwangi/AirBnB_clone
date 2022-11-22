@@ -287,4 +287,4 @@
   * **Lewis Mwangi**
     * <[Lewis](https://github.com/LewisNMwangi)>
   * **Alexander Igho**
-    * <[Igho](https://github.com/LewisNMwangi)>
+    * <[Igho](https://github.com/Alexigho)>
